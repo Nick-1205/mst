@@ -36,6 +36,4 @@ Lernmaterialien, Schulungsthemen oder andere Inhalte organisieren lassen.
 - CSS
 - JavaScript
 
-Auto
-
-Nick N
+Erstellt von Nick N
