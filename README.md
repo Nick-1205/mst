@@ -1,16 +1,39 @@
-# React + Vite
+# Mein Projekt zur Verwaltung von Lerninhalten
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Über das Projekt
 
-Currently, two official plugins are available:
+Die Idee dahinter ist, Inhalte übersichtlich in verschiedenen Abschnitten
+und Kapiteln zu organisieren. Dadurch lassen sich Themen strukturieren
+und Lernmaterialien an einem Ort verwalten.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+# Was kann die Anwendung?
 
-## React Compiler
+- Abschnitte erstellen: Inhalte in verschiedene Bereiche unterteilen.
+- Kapitel hinzufügen: Themen innerhalb eines Abschnitts organisieren.
+- Inhalte verwalten: Verschiedene Inhalte zu den Kapiteln hinzufügen.
+- Texte hinzufügen: Textinhalte für einzelne Themen anlegen.
+- Videos hinzufügen: Videos als zusätzliche Lernmaterialien einbinden.
+- Elemente entfernen: Nicht mehr benötigte Abschnitte und Inhalte löschen.
+- Flexible Struktur: Die Gliederung an die eigenen Bedürfnisse anpassen.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+# Einblick in das Projekt
 
-## Expanding the ESLint configuration
+Die Anwendung besitzt eine übersichtliche Benutzeroberfläche mit einer
+dunklen Gestaltung.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Über verschiedene Schaltflächen lassen sich Abschnitte und Kapitel
+hinzufügen oder entfernen. Innerhalb der Kapitel können unterschiedliche
+Inhaltstypen ausgewählt werden.
+
+So entsteht eine flexible Struktur, mit der sich beispielsweise
+Lernmaterialien, Schulungsthemen oder andere Inhalte organisieren lassen.
+
+# Verwendete Technologien
+
+- HTML
+- CSS
+- JavaScript
+
+Auto
+
+Nick N
